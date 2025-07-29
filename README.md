@@ -2,7 +2,7 @@
 
 ![readmebox](https://github.com/masgalih320/masgalih320/assets/91511974/4e5fe1ba-6c8d-45cd-b108-053d715a4920)
 [![Wakatime](https://wakatime.com/badge/user/9f422c1e-f02a-4612-9fbd-737bc6de9bc9.svg)](https://wakatime.com/@9f422c1e-f02a-4612-9fbd-737bc6de9bc9)
-[![Instagram](https://img.shields.io/badge/Instagram-@sukristyan-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sukristyan)
+[![Instagram](https://img.shields.io/badge/Instagram-@galihsukristyan-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/galihsukristyan)
 [![Website](https://img.shields.io/badge/Website-galih.me-0abde3?style=flat&logo=firefox-browser&logoColor=white)](https://galih.me)
 [![Blog](https://img.shields.io/badge/Blog-blog.galih.me-ff9f43?style=flat&logo=hashnode&logoColor=white)](https://blog.galih.me)
 
@@ -19,7 +19,7 @@
 - 🌱 Exploring animation, performance, and fullstack magic  
 - 🌐 Native in Bahasa Indonesia, fluent in English  
 - 💬 Open to collaboration and always happy to help  
-- 📫 Reach me on [Instagram](https://instagram.com/sukristyan)  
+- 📫 Reach me on [Instagram](https://instagram.com/galihsukristyan)  
 - 🧠 Visit my portfolio: [galih.me](https://galih.me)  
 - 📝 Read my writings at [blog.galih.me](https://blog.galih.me)
 
@@ -67,8 +67,8 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/sukristyan">
-    <img src="https://img.shields.io/badge/Instagram-%40sukristyan-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/galihsukristyan">
+    <img src="https://img.shields.io/badge/Instagram-%40galihsukristyan-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:hi@galih.me">
     <img src="https://img.shields.io/badge/Email-hi@galih.me-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
