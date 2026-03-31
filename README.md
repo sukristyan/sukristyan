@@ -56,14 +56,6 @@
 
 ---
 
-## 📈 WakaTime Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@9f422c1e-f02a-4612-9fbd-737bc6de9bc9&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 <p align="center">
